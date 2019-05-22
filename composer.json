@@ -1,11 +1,11 @@
 {
-    "name": "eduardokum/laravel-boleto",
+    "name": "josepholiveira/laravel-boleto-dif",
     "description": "Biblioteca com boletos para o laravel",
     "keywords": [
-        "eduardokum",
-        "laravel-boleto"
+        "josepholiveira",
+        "laravel-boleto-dif"
     ],
-    "homepage": "https://github.com/eduardokum/laravel-boleto",
+    "homepage": "https://github.com/josepholiveira/laravel-boleto",
     "license": "MIT",
     "authors": [
         {
@@ -14,7 +14,7 @@
         }
     ],
     "require": {
-        "php" : ">=5.5.0",
+        "php": ">=5.5.0",
         "ext-intl": "*",
         "ext-mbstring": "*",
         "nesbot/carbon": "1.*",
